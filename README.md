@@ -1,1 +1,2 @@
-# Adtya-Class-36
+# synchronousBallMovement
+Ball moving synchronously
